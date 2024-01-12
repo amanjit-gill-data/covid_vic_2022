@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this project, I obtained the daily COVID-19 case numbers for people aged 0-9 and 10-19, and used these to maintain an interactive time-series graph. 
+For this project, I obtained the daily COVID-19 case numbers for people aged 0-9 and 10-19, and used these to maintain an interactive time-series graph, available at https://amanjitgill.com/covid_vic_2022/.
 
 ## Tasks
 
